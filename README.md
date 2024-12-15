@@ -1,6 +1,6 @@
 <div align="center">
 
-![freenom logo](https://s1.ax1x.com/2022/03/10/bhzMG9.png)
+
 
 <h3>Freenom：freenom域名自动续期</h3>
 
