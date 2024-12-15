@@ -12,7 +12,7 @@
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/main/README_EN.md) | 中文版
 </div>
 
-[📢 注意](#-注意)
+
 
 [🌿 特别感谢 Special Thanks](#-特别感谢-special-thanks)
 
